@@ -39,3 +39,9 @@ coding3.splice(2, 1, 'coding 50')
 console.log(coding4);
 console.log(coding4.pop(3));
 console.log(coding4);
+// bonus
+let tab1 = ['coding 1', 'coding2', 'coding 3'];
+let tab2 = ['coding 5 ', 'coding 6', 'coding7'];
+let tab3 = tab1.concat(tab2);
+
+console.log(tab3);
