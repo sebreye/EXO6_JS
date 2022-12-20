@@ -26,3 +26,16 @@ let name2 = coding3.push('sebastian');
 console.log(coding3);
 coding3.splice(0, 1, 'coding 40')
 console.log(coding3);
+// fin exercice 3
+
+// exercice 4
+let exo4 = "exo 4"
+console.log(exo3);
+let coding4 = ["coding 29", "coding 30", "coding 31"]
+console.log(coding4);
+let name3 = coding4.push('sebastian');
+console.log(coding4);
+coding3.splice(2, 1, 'coding 50')
+console.log(coding4);
+console.log(coding4.pop(3));
+console.log(coding4);
